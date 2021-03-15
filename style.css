@@ -1,0 +1,70 @@
+.lebar-90 {
+  width: 95%;
+}
+
+.lebar-100 {
+  width: 98%;
+}
+
+body {
+  margin: 10;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #000;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav-right {
+  float: right;
+}
+
+h2 {
+  margin-bottom: 10px;
+  margin-left: 40px;
+}
+
+p {
+  margin-top: 10px;
+  margin-bottom: 40px;
+  margin-left: 40px;
+  font-size: 12px;
+}
+
+form {
+  margin-left: 40px;
+}
+
+input[type=submit] {
+  color: white;
+  border: none;
+  background-color: black;
+  padding: 10px 20px;
+  font-size: 14px;
+  margin-top: 5px;
+  margin-left: 300px;
+}
+
+footer p {
+  margin-top: 40px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+  width: 100%;
+  color: black;
+  text-align: left;
+}
